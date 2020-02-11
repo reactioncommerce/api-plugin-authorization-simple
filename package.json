@@ -28,7 +28,7 @@
     "@reactioncommerce/reaction-error": "^1.0.1",
     "lodash": "^4.17.15",
     "ramda": "^0.27.0",
-    "semantic-release": "^17.0.2"
+    "semantic-release": "^15.13.24"
   },
   "devDependencies": {
     "@reactioncommerce/eslint-config": "~2.1.0",
@@ -82,7 +82,9 @@
     "arrowParens": "always"
   },
   "release": {
-    "branches": ["trunk"]
+    "branches": [
+      "trunk"
+    ]
   },
   "publishConfig": {
     "access": "public"
