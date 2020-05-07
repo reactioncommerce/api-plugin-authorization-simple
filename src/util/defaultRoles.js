@@ -103,7 +103,8 @@ export const defaultAccountsManagerRoles = [
   "reaction:legacy:accounts/remove:address-books",
   "reaction:legacy:accounts/update:address-books",
   "reaction:legacy:accounts/update:currency",
-  "reaction:legacy:accounts/update:language"
+  "reaction:legacy:accounts/update:language",
+  "reaction:legacy:invitations/read"
 ];
 
 export const defaultSystemManagerRoles = [
